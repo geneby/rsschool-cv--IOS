@@ -45,6 +45,6 @@ e-mail **eugene_dubrovsky@tut.by**
 
 ### Language skills
 
-- english *advanced*
-- polish *elementary*
-- french *elementary*
+- English *advanced*
+- Polish *elementary*
+- French *elementary*
